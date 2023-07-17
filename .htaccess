@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP_HOST} ^(www\.)?dvmindustries\.us$ [NC]
+RewriteRule ^(.*)$ https://dvmindustries.us/$1 [L,R=301]
+</IfModule>

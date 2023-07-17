@@ -1,0 +1,35 @@
+-link en los clients logos, pero haciendo el link a los proyectos que hemos hechos con ellos
+-bajar el ribbon de los clientes a despues del review en home page 
+-substituir el ribbon de clientes por los servicios (ref. Michel's electric) https://www.michels.us/ (https://www.kiewit.com/)
+- agregar el link para bajar el app del portal (apple y android)
+- ribbon con # de projectos, kWh saved, $$ saved to clients (ref Sight Energy) (http://sightenergy.com/)
+- Agregar Local Law Compliance (https://www.yadavsolutions.com/)
+- onPageLoad, un video de full screen unos 5 segundos de video explicativo.
+- Parte geografica que abarcamos y que estamos dispuestos a cubrirlo.
+- Why we stand out (estadisticas banner) https://www.qualitrolcorp.com/
+- video al inicio con los principales servicios con una frase que describa que hacemos (5seg top y regresar a la pagina) https://couttsbros.com/
+https://isadoradigitalagency.com/
+https://legnd.com/houston?utm_campaign=houston&utm_medium=referral&utm_source=10BestDesign&utm_term=10-best-houston-web-design-firms
+
+Checar super pagina
+https://www.tappinc.com/
+https://www.bowenmedia.com/
+https://www.fyresite.com/
+
+https://www.10bestdesign.com/firms/?gclid=CjwKCAjw74b7BRA_EiwAF8yHFJVeziWB80Xw2e2rMRhemKKTyCGQSjyro4ZsOVmrZWXvPRnfWFe_lBoCFwUQAvD_BwE
+
+Hacer un Q&A con las preguntas que salen en el portal.
+
+What Customers want to see
+
+1. Que es la empresa
+2. Serivcios ofrecidos
+3. Reference (case-studies y clientes)
+	Descripcion del proyecto.
+	Tipo de Projecto
+	Que se logro.. problema y solucion.
+
+About Us y Services son las primeras que ven 
+
+Hamburguer menu en todos los tamanos y que al picarle se despliegue el menu a la izquierda
+Mantener el hamburguer menu cuando scroll down (https://www.yadavsolutions.com/)
