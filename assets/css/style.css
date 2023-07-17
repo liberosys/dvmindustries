@@ -1048,10 +1048,10 @@ section {
   text-align: center;
 }
 .solar h3 {
-  color: #fff !important;
   font-size: 28px;
   font-weight: 400;
   /* text-align: center; */
+  color:#ffff;
   font-family: Poppins;
 }
 
@@ -1079,9 +1079,12 @@ section {
 .cta h3 {
   font-size: 28px;
   font-weight: 700;
+  color: #fff;
 }
-
-.cta p, h3, h4 {
+.cta h4 {
+  color: #fff;
+}
+.cta p {
   color: #fff;
 }
 
