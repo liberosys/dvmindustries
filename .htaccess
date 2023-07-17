@@ -3,4 +3,5 @@ RewriteEngine On
 RewriteCond %{HTTPS} off
 RewriteCond %{HTTP_HOST} ^(www\.)?dvmindustries\.us$ [NC]
 RewriteRule ^(.*)$ https://dvmindustries.us/$1 [L,R=301]
+RewriteRule ^([^\.]+)$ $1.html [NC,L]
 </IfModule>
